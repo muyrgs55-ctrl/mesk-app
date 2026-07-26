@@ -1,0 +1,19 @@
+{
+  "name": "Meşk — Sûre ve Elif-Ba Ezber Asistanı",
+  "short_name": "Meşk",
+  "description": "Namaz sûreleri, duaları ve Elif-Ba harflerini oyunlarla öğrenen ezber asistanı",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12463A",
+  "theme_color": "#12463A",
+  "lang": "tr",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
